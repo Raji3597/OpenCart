@@ -1,0 +1,58 @@
+08:12:41.684 [TestNG-tests-3] INFO  testClass.TC001_AccountRegistrationTest - Enter customer details
+08:12:41.800 [TestNG-tests-1] INFO  testClass.TC001_AccountRegistrationTest - Validation successful
+08:12:41.800 [TestNG-tests-1] INFO  testClass.TC001_AccountRegistrationTest - ---------TC001_Exceution Completed------
+08:13:28.495 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Selenium_workspace\OpenCart\crossBrowserTesting.xml"
+08:13:28.780 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Selenium_workspace\OpenCart\crossBrowserTesting.xml
+
+08:13:28.885 [TestNG-tests-2] INFO  testClass.TC001_AccountRegistrationTest - -------TC001_Execution started -------
+08:13:31.683 [TestNG-tests-1] INFO  testClass.TC001_AccountRegistrationTest - -------TC001_Execution started -------
+08:13:31.685 [TestNG-tests-3] INFO  testClass.TC001_AccountRegistrationTest - -------TC001_Execution started -------
+08:13:31.791 [TestNG-tests-3] INFO  testClass.TC001_AccountRegistrationTest - Clicked on MyAccount
+08:13:31.849 [TestNG-tests-1] INFO  testClass.TC001_AccountRegistrationTest - Clicked on MyAccount
+21:27:14.159 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Selenium_workspace\OpenCart\docker.xml"
+21:27:14.716 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Selenium_workspace\OpenCart\docker.xml
+
+21:27:21.817 [main] INFO  testClass.TC001_AccountRegistrationTest - -------TC001_Execution started -------
+21:27:22.027 [main] INFO  testClass.TC001_AccountRegistrationTest - Clicked on MyAccount
+21:27:22.642 [main] INFO  testClass.TC001_AccountRegistrationTest - Clicked on Register
+21:27:22.642 [main] INFO  testClass.TC001_AccountRegistrationTest - Enter customer details
+21:27:25.129 [main] ERROR testClass.TC001_AccountRegistrationTest - Validation failed
+21:27:25.129 [main] DEBUG testClass.TC001_AccountRegistrationTest - Debug logs....
+21:27:49.239 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Selenium_workspace\OpenCart\docker.xml"
+21:27:49.654 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Selenium_workspace\OpenCart\docker.xml
+
+21:27:54.621 [main] INFO  testClass.TC001_AccountRegistrationTest - -------TC001_Execution started -------
+21:27:54.894 [main] INFO  testClass.TC001_AccountRegistrationTest - Clicked on MyAccount
+21:27:55.507 [main] INFO  testClass.TC001_AccountRegistrationTest - Clicked on Register
+21:27:55.508 [main] INFO  testClass.TC001_AccountRegistrationTest - Enter customer details
+21:27:58.349 [main] INFO  testClass.TC001_AccountRegistrationTest - Validation successful
+21:27:58.349 [main] INFO  testClass.TC001_AccountRegistrationTest - ---------TC001_Exceution Completed------
+21:28:00.107 [main] INFO  testClass.TC002_LoginTest - ******TC002_LoginTest Execution started******
+21:28:02.943 [main] INFO  testClass.TC002_LoginTest - ******TC002_LoginTest Execution finished******
+21:28:40.081 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Selenium_workspace\OpenCart\docker.xml"
+21:28:40.509 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Selenium_workspace\OpenCart\docker.xml
+
+21:28:48.432 [main] INFO  testClass.TC001_AccountRegistrationTest - -------TC001_Execution started -------
+21:28:48.809 [main] INFO  testClass.TC001_AccountRegistrationTest - Clicked on MyAccount
+21:28:49.577 [main] INFO  testClass.TC001_AccountRegistrationTest - Clicked on Register
+21:28:49.578 [main] INFO  testClass.TC001_AccountRegistrationTest - Enter customer details
+21:28:51.781 [main] INFO  testClass.TC001_AccountRegistrationTest - Validation successful
+21:28:51.781 [main] INFO  testClass.TC001_AccountRegistrationTest - ---------TC001_Exceution Completed------
+21:28:57.900 [main] INFO  testClass.TC002_LoginTest - ******TC002_LoginTest Execution started******
+21:29:00.282 [main] INFO  testClass.TC002_LoginTest - ******TC002_LoginTest Execution finished******
+21:30:04.572 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Selenium_workspace\OpenCart\docker.xml"
+21:30:05.095 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Selenium_workspace\OpenCart\docker.xml
+
+21:30:11.736 [main] INFO  testClass.TC001_AccountRegistrationTest - -------TC001_Execution started -------
+21:30:12.109 [main] INFO  testClass.TC001_AccountRegistrationTest - Clicked on MyAccount
+21:30:13.009 [main] INFO  testClass.TC001_AccountRegistrationTest - Clicked on Register
+21:30:13.009 [main] INFO  testClass.TC001_AccountRegistrationTest - Enter customer details
+21:30:15.203 [main] INFO  testClass.TC001_AccountRegistrationTest - Validation successful
+21:30:15.203 [main] INFO  testClass.TC001_AccountRegistrationTest - ---------TC001_Exceution Completed------
+21:30:22.253 [main] INFO  testClass.TC002_LoginTest - ******TC002_LoginTest Execution started******
+21:30:24.724 [main] INFO  testClass.TC002_LoginTest - ******TC002_LoginTest Execution finished******
